@@ -5,7 +5,7 @@
 - Clone the repository.
   
   ```shell
-  git clone https://github.com/anurag-sachan/Flask-Vue-Redis-Celery-FullstackStore.git
+  git clone https://github.com/anurag-sachan/Rust-TradingView-Stock-Screener.git
   ```
 
 - Pre-requisites :
